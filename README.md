@@ -5,7 +5,7 @@
 <img alt="comparison image" src="https://github.com/CalicatSJL/Airbrush3DPrinter/blob/603322e46b361c85c9c3b4500689975b20cbf822/Images/comparison%20image.png" />
 <img alt="performance data" src="https://github.com/CalicatSJL/Airbrush3DPrinter/blob/368358dcf1d8d3601b4fd78ab42792576b68395b/Images/performance%20comparison.png" />
 
-This project was developed at Calicat by Steven Jaffe-Lewis, Nadia E.Tolouei, and Que Nhi Nguyen beginning in Summer 2025. 
+This project was developed at Calicat by Steven Jaffe-Lewis, Que Nhi Nguyen, and Nadia Tolouei in Summer 2025. 
 All files and code are being released under MIT license. The team hopes that this project will be useful for other electrochemistry labs to standardize this manual airbrush process and improve loading uniformity of sprayed catalyst inks for making catalyst-coated membranes or related components.
 
 inspired from Remi_Rafael's project: https://www.instructables.com/Converting-a-3D-Printer-Into-an-Automatic-Spray-Co/
